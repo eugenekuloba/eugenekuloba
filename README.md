@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a ML project to classify elephants by their age<br>I'm looking to collaborate on any ML projects<br>I'm currently learning RASA framework
+I'm a passionate data scientist driven with the passion to extract insights from messy data<br>I'm currently working on a ML project to classify elephants by their age<br>I'm looking to collaborate on any ML projects<br>I'm currently learning RASA framework
 
 
 ## 🌐 Socials:
